@@ -1,7 +1,7 @@
 # DApp Collection
  Some programs to get DApp metadata
  
- The dataset is used in ["A First Look at Blockchain-based Decentralized Applications"](https://doi.org/10.1002/spe.2751)
+ The dataset is used in ["A First Look at Blockchain-based Decentralized Applications"](https://doi.org/10.1002/spe.2751) (Wu, K, Ma, Y, Huang, G, Liu, X. A first look at blockchain‐based decentralized applications. Softw: Pract Exper. 2019; 1– 18.)
 
 ## workspace/stateofthedapps.py
  Get dapps' metadata from stateofthedapps.com
