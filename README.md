@@ -1,5 +1,7 @@
 # DApp Collection
  Some programs to get DApp metadata
+ 
+ The dataset is used in ["A First Look at Blockchain-based Decentralized Applications"](https://doi.org/10.1002/spe.2751)
 
 ## workspace/stateofthedapps.py
  Get dapps' metadata from stateofthedapps.com
